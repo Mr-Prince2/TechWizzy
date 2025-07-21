@@ -1,2 +1,2 @@
-https://tinyurl.com/techwizzy
+ https://mr-prince2.github.io/TechWizzy/
 Work still in process...
