@@ -1,2 +1,2 @@
- https://mr-prince2.github.io/TechWizzy/
+ https://mr-prince2.github.io/TechWizzy/template/
 Work still in process...
